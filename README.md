@@ -28,8 +28,8 @@ Esse repositório contém essas tais tecnologias :
   ## 💻 Projeto
 
   Esse repositório foi desenvolvido durante a trilha de react da rocketseat. O projeto permite aos usuários criar notas digitando
-  ou gravando áudio. As notas podem ser editadas e excluidas conforme o necessário. Eu pude aprender novos conceitos e bibliotecas 
-  de desenvolvimento para alavancar meus estudos de react.
+  ou gravando áudio, as notas podem ser editadas e excluidas conforme o necessário. Eu pude aprender novos conceitos e bibliotecas 
+  de desenvolvimento, criação de interfaces para alavancar meus estudos de react e o Tailwind CSS para as estilizações.
   <br>
 
 

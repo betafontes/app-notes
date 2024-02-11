@@ -65,4 +65,5 @@ Esse repositório contém essas tais tecnologias :
 
 ```bash
   http://localhost:5173
+  https://app-notes-react-ten.vercel.app/
 ```

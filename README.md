@@ -45,7 +45,7 @@ Esse repositório contém essas tais tecnologias :
   🔗 **Entre no diretório :**
 
   ```bash
-    cd app-notes-react
+    cd app-notes
   ```
 
  🔗 **Instale as dependências :**
